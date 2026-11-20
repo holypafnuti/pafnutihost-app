@@ -8,7 +8,7 @@
 
 **[Последняя версия →](../../releases/latest)** — файл `PafnutiHost-*.apk`.
 
-Android 7.0 и новее. Телефоны, планшеты.
+Android 7.0 и новее. Телефоны, планшеты, телевизоры Android TV.
 
 ## Как установить
 
@@ -35,7 +35,7 @@ Android 7.0 и новее. Телефоны, планшеты.
 
 ## Проверка файла
 
-У каждой версии на странице указана контрольная сумма SHA-256. Сравнить: на компьютере `certutil -hashfile PafnutiHost-1.0.18.apk SHA256` (Windows) или `sha256sum` (Linux, macOS).
+У каждой версии на странице указана контрольная сумма SHA-256. Сравнить: на компьютере `certutil -hashfile PafnutiHost-1.0.20.apk SHA256` (Windows) или `sha256sum` (Linux, macOS).
 
 ## Связь
 
